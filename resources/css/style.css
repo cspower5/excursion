@@ -1,32 +1,25 @@
 body{
   background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 
 }
-.links{
-  text-align: center;
+.cta{
   font-size: 16px;
   color: aquamarine;
 }
 h1{
-  font-family: Veranda;
   font-size: 50px;
-  text-align: center;
-  color: white;
+  font-weight: normal;
 }
-h3{
-  font-family: Veranda;
+h2{
   font-size: 21px;
-  text-align: center;
   color: gray;
 }
-.excursion{
-  width: 508px;
-  height: 770px;
-}
 .camping{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-
+  
+}
+.footer {
+  text-align: right;
 }
